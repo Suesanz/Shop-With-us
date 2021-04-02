@@ -15,7 +15,7 @@ To check out the cart sign in with Oauth api used.
 
 ## HOW TO SET UP?
 
-1.    Run command  ````npm install````
-2.    To make sign in working register your app from facebook and twitter from their developer page.The client id and client secret used here in strategies are just some random number(obviously).
-3.    Run command * node server.js * and open the respective port mentioned in your browser.     
+1.    Run command  ````npm install````.
+2.    To make sign in working register your app from facebook and twitter from their developer page. The client id and client secret used here in strategies are just some random number(obviously).
+3.    Run command ````node server.js```` and open the respective port mentioned in your browser.     
       
